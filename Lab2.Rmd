@@ -11,10 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## About the Team
 
-We are Not Team One. 
+We are "Not Team One". 
 
 ## About Rachel
 
-I'm Rachel.
+I'm Rachel. This is a change.
 
 
