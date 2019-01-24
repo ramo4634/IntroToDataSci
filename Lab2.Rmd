@@ -26,6 +26,17 @@ Team Goal: We aspire to enhance our technical, communication, and project manage
 * One day, I want to leave the corporate world and get a PhD so I can make mathematical models to study climate change. * I'm hoping to become a master of R. I would also like to get better at Python if at all possible. 
 * My hobbies include telling dad jokes, hiking, camping, drawing, and cooking. 
 
+
+Feedback:
+
+Anderson:
+
+Arie:
+
+David:
+
+Ethan:
+
 ## About Ethan
 
 ![Picture of me playing tennis](images/IMG_1929.JPG){width=250px}
@@ -42,6 +53,16 @@ Team Goal: We aspire to enhance our technical, communication, and project manage
 * I was a competitive tennis player in high school (now coaching), I play chess online, and I enjoy road biking to Denver!
 
 
+Feedback:
+
+Anderson:
+
+David:
+
+Arie:
+
+Rachel:
+
 ## About Arie
 
 ![Newton and Me](images/IMG_1137.jpg){width=250px}
@@ -51,6 +72,17 @@ Team Goal: We aspire to enhance our technical, communication, and project manage
 * I hope that I invent something totally new that will change the course of society.
 * In the course I hope to learn how to use R to understand data and make decisoins based off of that.
 * Two summers ago I stayed in India to get my yoga teacher certification. One of the adventures included riding a motor bike through the Himalayas to go and meditate in my yoga teacher's guru's cave.
+
+
+Feedback:
+
+David:
+
+Ethan:
+
+Rachel:
+
+Anderson:
 
 ## About Anderson
 
@@ -63,6 +95,16 @@ Team Goal: We aspire to enhance our technical, communication, and project manage
 * My hobbies include longboarding, snowboarding, hiking, playing video games and listening to music.
 
 
+Feedback:
+
+David:
+
+Ethan:
+
+Arie:
+
+Rachel:
+
 ## About David
 
 ![Picture from Backpacking in White Mountains](images/Stat pic sausage.jpg){width=250px}
@@ -72,4 +114,16 @@ Team Goal: We aspire to enhance our technical, communication, and project manage
 * I hope someday in my career I can have a major possitive impact on a person whom I would invest in personally. Also, any kind of award would be cool.
 * In this course I hope to learn skills that I can translate into research/intership positions. 
 * 2% of the human population are born without ANY wisdom teeth. Fun Fact: I am one of those people.
+
+
+Feedback:
+
+Anderson:
+
+Arie:
+
+David:
+
+Rachel:
+
 >>>>>>> master
