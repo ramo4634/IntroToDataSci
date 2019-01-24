@@ -29,7 +29,7 @@ Team Goal: We aspire to enhance our technical, communication, and project manage
 
 Feedback:
 
-Anderson:
+Anderson: Your section is a great example of a well organized layout. The mac and cheese packet is a creative idea on a statistical question.
 
 Arie:
 
@@ -41,11 +41,6 @@ Ethan:
 
 ![Picture of me playing tennis](images/IMG_1929.JPG){width=250px}
 
-* During the late nate when I need a snack I sometimes get really lazy and eat ramen noodles raw. The ramen becomes a chip rather than some noodles, so I would like to know who else eats their ramen like this?
-* Six months after graduation I would have a job with some coding as a part of it. Hopefully in the next five years I will be creating a space beach.
-* I wish to be able to do my own research on a topic that will be me intrigued.
-* I'm hoping to learn R and get a basis for coding and organizing data.
-* My hobbies include longboarding, snowboarding, hiking, playing video games and listening to music.
 *  I've lately been interested in watching short term and long term trends in the stock market.  I'd be interested in learning how to analyze technicals and patterns to predict future trends in the markets.
 * Six months after graudation, I will likely go for a professional masters specializing in data science.  When I'm in the workforce in the next five years, I hope to be a data scientist or financial analyst in a big city such as New York.  If I'm lucky, my job will allow me to travel around the world!
 * Hopefully, my greatest accomplishment will involve using data science to lead a company to make a very significant and good decision in their business.
