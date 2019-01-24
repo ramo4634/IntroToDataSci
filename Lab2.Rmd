@@ -27,9 +27,16 @@ Team Picture:
 4. I'm hoping to become a master of R. I would also like to get better at Python if at all possible. 
 5. My hobbies include telling dad jokes, hiking, camping, drawing, and cooking. 
 
+## About Anderson
 ## About Ethan
 Pic: ![Picture from Camping in Yellowstone](images/IMG_1929.JPG){width=250px}
 
+![Picture with Raccoon](images/image1.jpeg){width=250px}
+1. During the late nate when I need a snack I sometimes get really lazy and eat ramen noodles raw. The ramen becomes a chip rather than some noodles, so I would like to know who else eats their ramen like this?
+2. Six months after graduation I would have a job with some coding as a part of it. Hopefully in the next five years I will be creating a space beach.
+3. I wish to be able to do my own research on a topic that will be me intrigued.
+4. I'm hoping to learn R and get a basis for coding and organizing data.
+5. My hobbies include longboarding, snowboarding, hiking, playing video games and listening to music.
 1. I've lately been interested in watching short term and long term trends in the stock market.  I'd be interested in learning how to analyze technicals and patterns to predict future trends in the markets.
 2. Six months after graudation, I will likely go for a professional masters specializing in data science.  When I'm in the workforce in the next five years, I hope to be a data scientist or financial analyst in a big city such as New York.  If I'm lucky, my job will allow me to travel around the world!
 3. Hopefully, my greatest accomplishment will involve using data science to lead a company to make a very significant and good decision in their business.
