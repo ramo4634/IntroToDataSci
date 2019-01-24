@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ---
 title: "Lab 2"
 author: "Not Team One"
@@ -35,3 +36,35 @@ Team Picture:
 3. I wish to be able to do my own research on a topic that will be me intrigued.
 4. I'm hoping to learn R and get a basis for coding and organizing data.
 5. My hobbies include longboarding, snowboarding, hiking, playing video games and listening to music.
+=======
+---
+title: "Lab 2"
+author: "Not Team One"
+date: "1/23/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About the Team
+
+Team Name: Not Team One
+
+Team Goal: Improve each individual's technical, communication, and project management skills. Ensure that everyone does equal work and also to be a rad team but not team number one. 
+
+Team Picture: 
+
+## About Rachel
+
+![Picture from Camping in Yellowstone](images/RachelM.jpeg){width=250px}
+
+1. Whenever I make mac and cheese, I accidentally drop the cheese packet into the boiling water when I pour the noodles in. I would like to conduct a series of mac and cheese related test among a sample of college students and then analyze the data to decide how likely it is to drop the cheese packet into the pot prematurely.  
+2. Six months after graduation I will be working for Target as a software engineer. I hope to earn my masters while working and become a data scientist in the next five years.
+3. One day, I want to leave the corporate world and get a PhD so I can make mathematical models to study climate change. 
+4. I'm hoping to become a master of R. I would also like to get better at Python if at all possible. 
+5. My hobbies include telling dad jokes, hiking, camping, drawing, and cooking. 
+
+
+>>>>>>> Stashed changes
