@@ -28,3 +28,12 @@ Team Picture:
 5. My hobbies include telling dad jokes, hiking, camping, drawing, and cooking. 
 
 
+## About Arie
+
+ ![Newton and Me](images/IMG_1137.jpg){width=250px}
+
+2. I'm curious to know the relationship between cuddling puppies and happiness.
+3. Six months after graduation I hope to land a job in the buisness field where I can utilize my math and data science skills. In the next five years I'd like to have enough money saved up, to start my own buisness. I'm not sure what kind of buisness yet.
+4. I hope that I invent something totally new that will change the course of society.
+5. In the course I hope to learn how to use R to understand data and make decisoins based off of that.
+6. Two summers ago I stayed in India to get my yoga teacher certification. One of the adventures included riding a motor bike through the Himalayas to go and meditate in my yoga teacher's guru's cave.
