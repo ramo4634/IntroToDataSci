@@ -29,7 +29,8 @@ Team Picture:
 
 ## About Ethan
 
-Pic: ![Picture of me playing tennis](images/IMG_1929.JPG){width=250px}
+![Picture of me playing tennis](images/IMG_1929.JPG){width=250px}
+Me playing high school tennis
 
 * During the late nate when I need a snack I sometimes get really lazy and eat ramen noodles raw. The ramen becomes a chip rather than some noodles, so I would like to know who else eats their ramen like this?
 * Six months after graduation I would have a job with some coding as a part of it. Hopefully in the next five years I will be creating a space beach.
