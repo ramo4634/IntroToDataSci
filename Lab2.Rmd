@@ -27,4 +27,11 @@ Team Picture:
 4. I'm hoping to become a master of R. I would also like to get better at Python if at all possible. 
 5. My hobbies include telling dad jokes, hiking, camping, drawing, and cooking. 
 
+## About Ethan
+Pic: ![Picture from Camping in Yellowstone](images/IMG_1929.JPG){width=250px}
 
+1. I've lately been interested in watching short term and long term trends in the stock market.  I'd be interested in learning how to analyze technicals and patterns to predict future trends in the markets.
+2. Six months after graudation, I will likely go for a professional masters specializing in data science.  When I'm in the workforce in the next five years, I hope to be a data scientist or financial analyst in a big city such as New York.  If I'm lucky, my job will allow me to travel around the world!
+3. Hopefully, my greatest accomplishment will involve using data science to lead a company to make a very significant and good decision in their business.
+4. Given these goals, I hope to gain a lot of knowledge of R in this class.  I feel confident in my stats knowledge but I have very little experience with programming.
+5. I was a competitive tennis player in high school (now coaching), I play chess online, and I enjoy road biking to Denver!
