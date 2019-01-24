@@ -15,7 +15,7 @@ Team Name: Not Team One
 
 Team Goal: We aspire to enhance our technical, communication, and project management skills. We also aspire to be a rad team but not team number one. 
 
-Team Picture: 
+![Team picture from trip to Space Beach](images/SpaceBeach.jpg){width=600px}
 
 ## About Rachel
 
