@@ -35,6 +35,8 @@ Team Picture:
 3. I wish to be able to do my own research on a topic that will be me intrigued.
 4. I'm hoping to learn R and get a basis for coding and organizing data.
 5. My hobbies include longboarding, snowboarding, hiking, playing video games and listening to music.
+
+
 ## About David
 
 ![Picture from Backpacking in White Mountains](images/Stat pic sausage.jpg){width=250px}
