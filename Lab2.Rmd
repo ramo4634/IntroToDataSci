@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Lab 2"
 author: "Not Team One"
@@ -31,42 +30,13 @@ Team Picture:
 
 ## About Arie
 
- ![Newton and Me](images/IMG_1137.jpg){width=250px}
+![Newton and Me](images/IMG_1137.jpg){width=250px}
 
 2. I'm curious to know the relationship between cuddling puppies and happiness.
 3. Six months after graduation I hope to land a job in the buisness field where I can utilize my math and data science skills. In the next five years I'd like to have enough money saved up, to start my own buisness. I'm not sure what kind of buisness yet.
 4. I hope that I invent something totally new that will change the course of society.
 5. In the course I hope to learn how to use R to understand data and make decisoins based off of that.
 6. Two summers ago I stayed in India to get my yoga teacher certification. One of the adventures included riding a motor bike through the Himalayas to go and meditate in my yoga teacher's guru's cave.
-=======
----
-title: "Lab 2"
-author: "Not Team One"
-date: "1/23/2019"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## About the Team
-
-Team Name: Not Team One
-
-Team Goal:
-
-Team Picture: 
-
-## About Rachel
-
-![Picture from Camping in Yellowstone](images/RachelM.jpeg){width=250px}
-
-* Whenever I make mac and cheese, I accidentally drop the cheese packet into the boiling water when I pour the noodles in. I would like to conduct a series of mac and cheese related test among a sample of college students and then analyze the data to decide how likely it is to drop the cheese packet into the pot prematurely.  
-* Six months after graduation I will be working for Target as a software engineer. I hope to earn my masters while working and become a data scientist in the next five years.
-* One day, I want to leave the corporate world and get a PhD so I can make mathematical models to study climate change. 
-* I'm hoping to become a master of R. I would also like to get better at Python if at all possible. 
-* My hobbies include telling dad jokes, hiking, camping, drawing, and cooking. 
 
 ## About Anderson
 
