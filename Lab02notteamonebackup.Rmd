@@ -31,11 +31,12 @@ Feedback:
 
 Anderson:Your section is a great example of a well organized layout. The mac and cheese packet is a creative idea on a stat
 
-Arie:
+Arie:Your description is well thought out. I think you did well on answering the questions in depth so that I can get to know you better. I look forward to hearing your dad jokes throughout this course!
+
 
 David: You have a good non statisitcal question that can be answered well using data science. I would restate that bullet in a question format.
 
-Ethan:
+Ethan:Your desire to analyze cheese packet dropping data is very creative, relatable, and humorous. I feel that your LA2 could be improved even further if you told me a few of your dad jokes as they'd probably be very funny! :)
 
 ## About Ethan
 
@@ -59,7 +60,8 @@ Anderson: I like to bike around too! The bullet points were helpful too.
 
 David: Good picture, it coorelates with your last point of playing tennis competitively. I noticed you have a lot of bullet points. Perhaps combing a few of those bullets will make the html file look more concise. 
 
-Arie:
+Arie:Your enthusiasm about data science really shows through in your description. I think it would be awesome to be able to work and travel the world. This is something I would like to be able to do. 
+
 
 Rachel:
 
@@ -78,7 +80,7 @@ Feedback:
 
 David: Your comment about yoga gives the team good insight on your personally. Where you state that you wanted to start a businnes, perhaps leaving out the uncertainty of the buisness will make the html look more professional??
 
-Ethan:
+Ethan:  I respect your desire to create something that will change society and this is something I also strive to accomplish with data science! I feel that you could be more descriptive here, however, by providing examples of the ways in which you want to change society so I could better understand your goals. 
 
 Rachel:
 
@@ -99,9 +101,11 @@ Feedback:
 
 David: Anderson, your question seems like it has good ties to data science. Also, your third bullet seems to have some grammar errors  in this code. (Might be fixed in a newer verion you are working on)
 
-Ethan:
+Ethan:I can well relate to your desire to learn R as this will also be my basis for learning data science.  I feel that you can provide more detail on the research you might like to pursue as this would give me an even better idea of your interests.
 
-Arie:
+
+Arie:You have a typo, you wrote 'nate' instead of 'night,' but a space beach is an interesting idea. I'm curious to know how that would actually play out in creating it.
+
 
 Rachel:
 
@@ -120,9 +124,10 @@ Feedback:
 
 Anderson:I like the idea of having positive impact on someone.
 
-Arie:
+Arie:Your description is very consice and organized. I think you are so lucky not to have wisdom teeth. I am dreading the day I have to get mine out.
 
-David: This is mine section. Weeeee
+
+Ethan: I think it's really interesting that you were born without any wisom teeth! I'm jealous because I will get my wisdom teeth out soon which will be rough... I feel that your LA 2 could be improved even further if you prived more detail on the skills you want to learn to translate into internship opportunities as this would give me a better idea of your interests.
 
 Rachel:
 
