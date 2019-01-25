@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ---
 title: "Lab 2"
 author: "Not Team One"
@@ -121,4 +122,128 @@ David:
 
 Rachel:
 
+=======
+---
+title: "Lab 2"
+author: "Not Team One"
+date: "1/23/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About the Team
+
+Team Name: Not Team One
+
+Team Goal: We aspire to enhance our technical, communication, and project management skills. We also aspire to be a rad team but not team number one. 
+
+![Team picture from trip to Space Beach](images/SpaceBeach.jpg){width=600px}
+
+## About Rachel
+
+![Picture from Camping in Yellowstone](images/RachelM.jpeg){width=250px}
+
+* Whenever I make mac and cheese, I accidentally drop the cheese packet into the boiling water when I pour the noodles in. I would like to conduct a series of mac and cheese related test among a sample of college students and then analyze the data to decide how likely it is to drop the cheese packet into the pot prematurely.  
+* Six months after graduation I will be working for Target as a software engineer. I hope to earn my masters while working and become a data scientist in the next five years.
+* One day, I want to leave the corporate world and get a PhD so I can make mathematical models to study climate change. * I'm hoping to become a master of R. I would also like to get better at Python if at all possible. 
+* My hobbies include telling dad jokes, hiking, camping, drawing, and cooking. 
+
+
+Feedback:
+
+Anderson:
+
+Arie:
+
+David:
+
+Ethan: Your desire to analyze cheese packet dropping data is very creative, relatable, and humorous. I feel that your LA2 could be improved even further if you told me a few of your dad jokes as they'd probably be very funny! :) 
+## About Ethan
+
+![Picture of me playing tennis](images/IMG_1929.JPG){width=250px}
+
+*  I've lately been interested in watching short term and long term trends in the stock market.  I'd be interested in learning how to analyze technicals and patterns to predict future trends in the markets.
+* Six months after graudation, I will likely go for a professional masters specializing in data science.  When I'm in the workforce in the next five years, I hope to be a data scientist or financial analyst in a big city such as New York.  If I'm lucky, my job will allow me to travel around the world!
+* Hopefully, my greatest accomplishment will involve using data science to lead a company to make a very significant and good decision in their business.
+* Given these goals, I hope to gain a lot of knowledge of R in this class.  I feel confident in my stats knowledge but I have very little experience with programming.
+* I was a competitive tennis player in high school (now coaching), I play chess online, and I enjoy road biking to Denver!
+
+
+Feedback:
+
+Anderson:
+
+David:
+
+Arie:
+
+Rachel:
+
+## About Arie
+
+![Newton and Me](images/IMG_1137.jpg){width=250px}
+
+* I'm curious to know the relationship between cuddling puppies and happiness.
+* Six months after graduation I hope to land a job in the buisness field where I can utilize my math and data science skills. In the next five years I'd like to have enough money saved up, to start my own buisness. I'm not sure what kind of buisness yet.
+* I hope that I invent something totally new that will change the course of society.
+* In the course I hope to learn how to use R to understand data and make decisoins based off of that.
+* Two summers ago I stayed in India to get my yoga teacher certification. One of the adventures included riding a motor bike through the Himalayas to go and meditate in my yoga teacher's guru's cave.
+
+
+Feedback:
+
+David:
+
+Ethan: I respect your desire to create something that will change society and this is something I also strive to accomplish with data science! I feel that you could be more descriptive here, however, by providing examples of the ways in which you want to change society so I could better understand your goals. 
+
+Rachel:
+
+Anderson:
+
+## About Anderson
+
+![Picture with Raccoon](images/image1.jpeg){width=250px}
+
+* During the late nate when I need a snack I sometimes get really lazy and eat ramen noodles raw. The ramen becomes a chip rather than some noodles, so I would like to know who else eats their ramen like this?
+* Six months after graduation I would have a job with some coding as a part of it. Hopefully in the next five years I will be creating a space beach.
+* I wish to be able to do my own research on a topic that will be me intrigued.
+* I'm hoping to learn R and get a basis for coding and organizing data.
+* My hobbies include longboarding, snowboarding, hiking, playing video games and listening to music.
+
+
+Feedback:
+
+David:
+
+Ethan: I can well relate to your desire to learn R as this will also be my basis for learning data science.  I feel that you can provide more detail on the research you might like to pursue as this would give me an even better idea of your interests.
+
+Arie:
+
+Rachel:
+
+## About David
+
+![Picture from Backpacking in White Mountains](images/Stat pic sausage.jpg){width=250px}
+
+* What is the amount of sleep that makes me feel the most rested after a typical day? I just cannot seem to figure out a good sleep schedule for me. Perhaps
+* Six whole months after graduation, I hope to either be in Grad school or starting a job where I can travel to take data. Half a decade from graduation I hope to find a career i'm passionate about.
+* I hope someday in my career I can have a major possitive impact on a person whom I would invest in personally. Also, any kind of award would be cool.
+* In this course I hope to learn skills that I can translate into research/intership positions. 
+* 2% of the human population are born without ANY wisdom teeth. Fun Fact: I am one of those people.
+
+
+Feedback:
+
+Anderson:
+
+Arie:
+
+Ethan: I think it's really interesting that you were born without any wisom teeth! I'm jealous because I will get my wisdom teeth out soon which will be rough... I feel that your LA 2 could be improved even further if you prived more detail on the skills you want to learn to translate into internship opportunities as this would give me a better idea of your interests.
+
+Rachel:
+
+>>>>>>> Stashed changes
 >>>>>>> master
