@@ -156,7 +156,7 @@ Feedback:
 
 Anderson:
 
-Arie:
+Arie:Your description is well thought out. I think you did well on answering the questions in depth so that I can get to know you better. I look forward to hearing your dad jokes throughout this course!
 
 David:
 
@@ -178,7 +178,7 @@ Anderson:
 
 David:
 
-Arie:
+Arie: Your enthusiasm about data science really shows through in your description. I think it would be awesome to be able to work and travel the world. This is something I would like to be able to do. 
 
 Rachel:
 
@@ -220,7 +220,7 @@ David:
 
 Ethan: I can well relate to your desire to learn R as this will also be my basis for learning data science.  I feel that you can provide more detail on the research you might like to pursue as this would give me an even better idea of your interests.
 
-Arie:
+Arie:You have a typo, you wrote 'nate' instead of 'night,' but a space beach is an interesting idea. I'm curious to know how that would actually play out in creating it.
 
 Rachel:
 
@@ -239,11 +239,9 @@ Feedback:
 
 Anderson:
 
-Arie:
+Arie:Your description is very consice and organized. I think you are so lucky not to have wisdom teeth. I am dreading the day I have to get mine out.
 
 Ethan: I think it's really interesting that you were born without any wisom teeth! I'm jealous because I will get my wisdom teeth out soon which will be rough... I feel that your LA 2 could be improved even further if you prived more detail on the skills you want to learn to translate into internship opportunities as this would give me a better idea of your interests.
 
 Rachel:
 
->>>>>>> Stashed changes
->>>>>>> master
